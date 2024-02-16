@@ -11,12 +11,9 @@
 
 #### 1. [Universitas Muhammadiyah Surabaya](https://www.um-surabaya.ac.id) | Informatic Engineering Student | Surabaya `2021-Now`
    - Member Hima Of Informatic engineering
-   - Member BEM Of enginering
    - Kominfo Of enginering BEM
-   - Intern member of UMSurabaya International Office 2021
-   - Member of UMSUrabaya International Office 2021-now
-   - Sekretaris Of IMABA Surabaya Organization
-   - Leader Of IMABA Surabaya Organization
+   - Intern/member of UMSurabaya International Office 2021/Now
+   - Leader Of IMABA Surabaya Organization 
    - exchange Student From Muhammadiyah university to Politeknik Singapure 2022 (Learn culture)
    - exchage student From Muhammadiyah University to taiwan Univerisity 2022 (Artificial Intellegent)
  #### 2. [MA MAMBAUL ULUM BATA-BATA](https://masmubata-bata.com) | Billingual Student | Pamekasan `2017-2020`
