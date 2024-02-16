@@ -30,7 +30,6 @@
    - as designer
 
 ---
-
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
@@ -41,8 +40,6 @@
 [<img align="left" alt="Adobe Photoshop" width="30px" src="https://play-lh.googleusercontent.com/r9zF77jorOmkaRlXnvsLiuVQ3p_gYW8y7x_UL-COoH9PxaTUEMbW1wiwS0z1n1Q31Q=w480-h960" style="padding-right:10px;" />]
 
 <br />
-<br />
-
 ---
 ### Connect with me:
 
