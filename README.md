@@ -8,7 +8,6 @@
 - 📫 How to reach me: aditiarizki71900@gmail.com
 
 ## Education:
-
 #### 1. [Universitas Muhammadiyah Surabaya](https://www.um-surabaya.ac.id) | Informatic Engineering Student | Surabaya `2021-Now`
    - Member Hima Of Informatic engineering
    - Kominfo Of enginering BEM
@@ -20,7 +19,6 @@
    - Tutor of english course
  #### 3. [MTS MAMBAUL ULUM BATA-BATA](https://mtsmubata-bata.com) | 2014-2017 
  #### 4. [MI MAMBAUl ULUM 2] |2008-2014
-   
 
 ## Work Experience:
 #### 1. [KUIK Kantor Urusan Internasional UMSurabaya](https://kuik.um-surabaya.ac.id) | intren Student as Designer | Surabaya `Nov'2021 - Now`
@@ -28,7 +26,6 @@
    - as data editor 
 #### 2. [Pimpinan Daerah Muhammadiyah Surabaya](http://surabaya-kota.or.id) | Intren Student | Surabaya `2021-2022`
    - as designer
-
 ---
 ### Languages and Tools:
 
