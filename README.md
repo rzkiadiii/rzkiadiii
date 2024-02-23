@@ -42,7 +42,6 @@
 <br />
 ---
 ### Connect with me:
-
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC5obZ-lBKS8VNONMdMoW-Aw)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC5obZ-lBKS8VNONMdMoW-Aw)
 &nbsp;&nbsp;
@@ -52,7 +51,6 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/rzkiadiii_/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rzkiadiii_/)
 
-<br />
 ---
 Visit My Portofolio : (https://panel.000webhost.com)
 
